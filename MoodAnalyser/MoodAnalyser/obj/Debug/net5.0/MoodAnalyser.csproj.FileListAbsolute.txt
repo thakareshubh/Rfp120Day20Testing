@@ -1,0 +1,16 @@
+E:\.net\Rpf120Day20MoodAnalizer\MoodAnalyser\MoodAnalyser\bin\Debug\net5.0\MoodAnalyser.exe
+E:\.net\Rpf120Day20MoodAnalizer\MoodAnalyser\MoodAnalyser\bin\Debug\net5.0\MoodAnalyser.deps.json
+E:\.net\Rpf120Day20MoodAnalizer\MoodAnalyser\MoodAnalyser\bin\Debug\net5.0\MoodAnalyser.runtimeconfig.json
+E:\.net\Rpf120Day20MoodAnalizer\MoodAnalyser\MoodAnalyser\bin\Debug\net5.0\MoodAnalyser.runtimeconfig.dev.json
+E:\.net\Rpf120Day20MoodAnalizer\MoodAnalyser\MoodAnalyser\bin\Debug\net5.0\MoodAnalyser.dll
+E:\.net\Rpf120Day20MoodAnalizer\MoodAnalyser\MoodAnalyser\bin\Debug\net5.0\MoodAnalyser.pdb
+E:\.net\Rpf120Day20MoodAnalizer\MoodAnalyser\MoodAnalyser\obj\Debug\net5.0\MoodAnalyser.csproj.AssemblyReference.cache
+E:\.net\Rpf120Day20MoodAnalizer\MoodAnalyser\MoodAnalyser\obj\Debug\net5.0\MoodAnalyser.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net\Rpf120Day20MoodAnalizer\MoodAnalyser\MoodAnalyser\obj\Debug\net5.0\MoodAnalyser.AssemblyInfoInputs.cache
+E:\.net\Rpf120Day20MoodAnalizer\MoodAnalyser\MoodAnalyser\obj\Debug\net5.0\MoodAnalyser.AssemblyInfo.cs
+E:\.net\Rpf120Day20MoodAnalizer\MoodAnalyser\MoodAnalyser\obj\Debug\net5.0\MoodAnalyser.csproj.CoreCompileInputs.cache
+E:\.net\Rpf120Day20MoodAnalizer\MoodAnalyser\MoodAnalyser\obj\Debug\net5.0\MoodAnalyser.dll
+E:\.net\Rpf120Day20MoodAnalizer\MoodAnalyser\MoodAnalyser\obj\Debug\net5.0\refint\MoodAnalyser.dll
+E:\.net\Rpf120Day20MoodAnalizer\MoodAnalyser\MoodAnalyser\obj\Debug\net5.0\MoodAnalyser.pdb
+E:\.net\Rpf120Day20MoodAnalizer\MoodAnalyser\MoodAnalyser\obj\Debug\net5.0\MoodAnalyser.genruntimeconfig.cache
+E:\.net\Rpf120Day20MoodAnalizer\MoodAnalyser\MoodAnalyser\obj\Debug\net5.0\ref\MoodAnalyser.dll
